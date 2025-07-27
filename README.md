@@ -25,7 +25,7 @@ We also explored how regularization techniques like Ridge and Lasso help address
 - Interpreting model outputs and deciding how to fairly compare models required consistent evaluation using MAE, MSE, RMSE, and R².
 
 ## Files Included
-- `Lab4_Regression.ipynb`: Jupyter Notebook with full code, models, visualizations, and evaluation.
+- `MSCS_634_Lab_4.ipynb`: Jupyter Notebook with full code, models, visualizations, and evaluation.
 - `README.md`: This file.
 
 ## Notes
